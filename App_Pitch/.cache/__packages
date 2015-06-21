@@ -1,0 +1,9 @@
+base
+randomForest
+lattice
+ggplot2
+caret
+e1071
+shiny
+devtools
+slidify
